@@ -36,6 +36,10 @@ params:
   # - Required
   # - Errand name to be run
 
+  ERRAND_PARAMS:
+  # - Optional
+  # - Additional parameters to pass to the errand
+
   INSTANCE:
   # - Optional
   # - Allows jobs to disambiguate between different copies of the same errand
